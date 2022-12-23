@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XU31135
 - 👀 I’m interested in making money and moving out
 - 🌱 I’m currently learning kotlin
-- 💞️ I’m working on Data Branch, an android app. kinda like a pip boy thing. LOTS of features planned. need help with setting up socials, creating and displaying navigatable 3d graph and some other stuff. 
+- 💞️ I’m working on Data Branch, an android app. kinda like a pip boy thing. 
 - 📫 How to reach me instance.select@gmail.com
 
 <!---
